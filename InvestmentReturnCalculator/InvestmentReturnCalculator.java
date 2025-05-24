@@ -1,3 +1,5 @@
+package InvestmentReturnCalculator;
+
 import java.util.Scanner;
 
 public class InvestmentReturnCalculator {
